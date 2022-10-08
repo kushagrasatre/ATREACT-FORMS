@@ -1,0 +1,21 @@
+Material UI=>
+
+npm install @mui/material @emotion/react @emotion/styled
+
+With styled-components=>
+
+npm install @mui/material @mui/styled-engine-sc styled-components
+
+
+Google Web Fonts=>
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+/>
+
+Icons=>
+npm install @mui/icons-material
+
+
+REACT REDUX=>
+npm i redux react-redux
