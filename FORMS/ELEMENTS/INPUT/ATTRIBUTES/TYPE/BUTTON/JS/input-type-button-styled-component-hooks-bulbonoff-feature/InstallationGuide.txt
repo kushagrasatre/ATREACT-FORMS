@@ -1,0 +1,3 @@
+To download styled-components run:https://styled-components.com/
+
+npm install --save styled-components
