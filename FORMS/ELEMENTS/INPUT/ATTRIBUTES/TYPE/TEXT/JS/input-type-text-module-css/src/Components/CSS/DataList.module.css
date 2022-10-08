@@ -1,0 +1,12 @@
+.listContainer{
+list-style-type: none;
+padding: 0;
+width: 100%;
+}
+
+.listContainer li {
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 5px;
+}
